@@ -8,5 +8,10 @@
             height: 66rem;
             border-radius: 2.8rem; 
         }
+
+        p{
+            font-style: italic;
+            text-align: center; 
+        }
     }
 }
